@@ -1,11 +1,11 @@
 Package: hydraR
-Title: What the Package Does (One Line, Title Case)
+Title: A framework for elegantly configuring complex applications
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Houston",
            family = "Perrett",
            role = c("aut", "cre"),
-           email = "hp@houstonp.com"
+           email = "hp@houstonp.com")
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
