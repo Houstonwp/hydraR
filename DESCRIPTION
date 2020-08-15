@@ -16,3 +16,5 @@ Suggests: tinytest
 Imports: 
     optparse,
     yaml
+URL: https://github.com/Houstonwp/hydraR
+BugReports: https://github.com/Houstonwp/hydraR/issues
