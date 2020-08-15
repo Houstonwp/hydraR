@@ -18,6 +18,8 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![CRAN status](https://www.r-pkg.org/badges/version/hydraR)](https://CRAN.R-project.org/package=hydraR)
+[![R build status](https://github.com/Houstonwp/hydraR/workflows/R-CMD-check/badge.svg)](https://github.com/Houstonwp/hydraR/actions)
+[![Codecov test coverage](https://codecov.io/gh/Houstonwp/hydraR/branch/master/graph/badge.svg)](https://codecov.io/gh/Houstonwp/hydraR?branch=master)
 <!-- badges: end -->
 
 The goal of hydraR is to ...
