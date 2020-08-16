@@ -15,7 +15,7 @@ status](https://github.com/Houstonwp/hydraR/workflows/R-CMD-check/badge.svg)](ht
 coverage](https://codecov.io/gh/Houstonwp/hydraR/branch/master/graph/badge.svg)](https://codecov.io/gh/Houstonwp/hydraR?branch=master)
 <!-- badges: end -->
 
-The goal of hydraR is to …
+The goal of hydraR is to provid a framework for elegantly configuring complex applications with a special emphasis on numerical computing and machine learning.
 
 ## Installation
 
@@ -25,6 +25,6 @@ You can install the development version of hydraR from GitHub with:
 remotes::install_github("houstonwp/hydraR")
 ```
 
-hyrdaR is heavily inspired by the [Hydra python
+hydraR is heavily inspired by the [Hydra python
 package](https://github.com/facebookresearch/hydra) by [Omry
 Yadan](https://github.com/omry):
