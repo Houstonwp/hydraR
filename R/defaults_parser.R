@@ -14,5 +14,6 @@ defaults_to_files <- function(config) {
 load_defaults <- function(config) {
   files <- defaults_to_files(config)
   yamls <- lapply(files, yaml.load_file)
-  merge_yaml(yamls)
+  configs <- lapply(yamls, as_config)
+  do.call(configs, merge)
 }
